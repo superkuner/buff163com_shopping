@@ -21,7 +21,7 @@ def process_url(url):
         driver.add_cookie({'name': 'Device-Id', 'value': 'cGz9jmoTIrUeVpRPtKxJ'})
         driver.add_cookie({'name': 'Locale-Supported', 'value': 'zh-Hans'})
         driver.add_cookie({'name': 'P_INFO',
-                           'value': '18737686739|1683687813|1|netnease_buff|00&99|null&null&null#CN&null#10#0|&0|null|18737686739'})
+                           'value': '187******39|1683687813|1|netnease_buff|00&99|null&null&null#CN&null#10#0|&0|null|187******39'})#电话号打码
         driver.add_cookie({'name': 'csrf_token',
                            'value': 'ImY5MDFlMWU5M2M5NWE4YjQ0YTRhZmI4YzMwYzZmMzFiMDZkNjY5NGQi.F4FRZA.5ako_jdLaLDZuoWyLYS51koyY-Y'})
         driver.add_cookie({'name': 'game', 'value': 'csgo'})
